@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 --> 
 
 
+
+<img align="center" alt="welcome" widht="400" src="https://media.tenor.com/2auJH5AE1fMAAAAC/welcome.gif"/>
+
+
+
+
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats)
 
 
@@ -26,9 +35,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-<img align="right" alt="welcome" widht="400" src="https://media.tenor.com/2auJH5AE1fMAAAAC/welcome.gif"
 
      
 
