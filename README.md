@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&show_icons=true&theme=highcontrast&hide=Totalstarsearned)](https://github.com/emeka1993/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&hide=totalstarsearned&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeka1993)](https://github.com/emeka1993/github-readme-stats)
