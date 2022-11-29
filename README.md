@@ -23,8 +23,14 @@ Here are some ideas to get you started:
 
 
 
-<img align="right" alt"welcome" widht="400" src="https://media.tenor.com/2auJH5AE1fMAAAAC/welcome.gif"
 
+
+
+
+
+<img align="right" alt="welcome" widht="400" src="https://media.tenor.com/2auJH5AE1fMAAAAC/welcome.gif"
+
+     
 
 
 
