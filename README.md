@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 --> 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&show_icons=true&theme=synthwave)](https://github.com/emeka1993/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&show_icons=true&theme=dark)](https://github.com/emeka1993/github-readme-stats)
