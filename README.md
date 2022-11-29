@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emeka1993)](https://github.com/emeka1993/github-readme-stats)
+
+
+
+<a href="https://github.com/emeka1993/github-readme-stats">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=emeka1993&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emeka1993)](https://github.com/emeka1993/github-readme-stats" />
+</a>
