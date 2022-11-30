@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 <img align="center" alt="welcome" widht="400" src="https://media.tenor.com/2auJH5AE1fMAAAAC/welcome.gif"/>
 
 
-
-
+body {
+  background-color: lightblue;
+}
 
 
 
