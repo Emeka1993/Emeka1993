@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 
 
-<img align="center" alt="welcome" widht="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="center" alt="welcome" widht="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 
 
 
