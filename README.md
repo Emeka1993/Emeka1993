@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
+![](https://komarev.com/ghpvc/?username=Emeka1993)
 
 
 <img align="center" alt="welcome" widht="400" src="https://media.tenor.com/2auJH5AE1fMAAAAC/welcome.gif"/>
