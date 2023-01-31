@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I am a passionate front-end developer with experience in creating intuitive and interactive web experiences. I have a strong understanding of HTML, CSS, and JavaScript;I have a keen eye for detail)](https://git.io/typing-svg)
-
-
 
 
 
