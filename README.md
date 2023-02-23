@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 
 
-
-
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
