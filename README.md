@@ -23,43 +23,27 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<style>
-.icon-container {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 10px;
-  justify-items: center;
-  align-items: center;
-}
-
-.icon-container img {
-  width: 80px;
-  height: 80px;
-}
-</style>
-
-<div class="icon-container">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python"/> 
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" title="Sketch" alt="Sketch"/>
-  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack"/>
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" title="Elasticsearch" alt="Elasticsearch"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" title="Photoshop" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/ClickUp-%234BB2F1.svg?style=for-the-badge&logo=clickup&logoColor=white" title="ClickUp" alt="ClickUp"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="80" height="80"/> 
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" title="Sketch" alt="Sketch" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" title="AWS" alt="AWS" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" title="Node.js" alt="Node.js" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" title="Express.js" alt="Express.js" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" title="Elasticsearch" alt="Elasticsearch" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" title="Canva" alt="Canva" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" title="Photoshop" alt="Photoshop" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/ClickUp-%234BB2F1.svg?style=for-the-badge&logo=clickup&logoColor=white" title="ClickUp" alt="ClickUp" width="80" height="80"/>
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" width="80" height="80"/>
 </div>
-
 
 
 ---
