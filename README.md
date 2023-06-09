@@ -22,18 +22,20 @@ Here are some ideas to get you started:
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" width="48" height="48"/>&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="48" height="48"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="48" height="48"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="48" height="48"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="48" height="48"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="48" height="48"/> 
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="48" height="48"/>
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask" width="48" height="48"/>
-  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" title="Sketch" alt="Sketch" width="48" height="48"/>
-  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" title="Python" alt="Python" width="60" height="60"/> 
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask" alt="Flask" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Sketch-%23F7B500.svg?style=for-the-badge&logo=sketch&logoColor=black" title="Sketch" alt="Sketch" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" title="Slack" alt="Slack" width="60" height="60"/>
 </div>
+
 
 ---
 
