@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3A78F7&background=DF82FF00&width=435&lines=Experienced+Front-developer;with+extensive+knowledge+of;Html%2C+Css%2C+Javascript+and+React.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <!--
 **Emeka1993/Emeka1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
