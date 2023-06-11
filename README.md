@@ -44,7 +44,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ClickUp-%234BB2F1.svg?style=for-the-badge&logo=clickup&logoColor=white" title="ClickUp" alt="ClickUp"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Microsoft Excel" alt="Excel"/>
-  <div>
   <img src="https://img.shields.io/badge/Flask--SQLAlchemy-%2307405e.svg?style=for-the-badge&logo=flask&logoColor=white" title="Flask-SQLAlchemy" alt="Flask-SQLAlchemy">
 </div>
 
