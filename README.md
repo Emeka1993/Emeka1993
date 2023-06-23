@@ -1,23 +1,10 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats-)
-
-
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 
-
-
-
-
-
-<!---
-**Emeka1993/Emeka1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
+****
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -43,6 +30,25 @@
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Microsoft Excel" alt="Excel"/>
 </div>
+
+
+
+
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats-)
+
+
+
+
+
+
+
+<!---
+**Emeka1993/Emeka1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
