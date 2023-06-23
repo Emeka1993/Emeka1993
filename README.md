@@ -1,10 +1,21 @@
 
-<!---
-**Emeka1993/Emeka1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats-)
+
 
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1C13F7&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
+
+
+
+
+
+
+<!---
+**Emeka1993/Emeka1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 
@@ -34,8 +45,6 @@
 </div>
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emeka1993&hide=stars&show_icons=true&theme=highcontrast)](https://github.com/emeka1993/github-readme-stats-)
 
 
 
