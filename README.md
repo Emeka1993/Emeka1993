@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/ClickUp-%234BB2F1.svg?style=for-the-badge&logo=clickup&logoColor=white" title="ClickUp" alt="ClickUp"/>
   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" title="Microsoft Excel" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" title="Terraform" alt="Terraform"/>
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" alt="Vercel"/>
 <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" title="Netlify" alt="Netlify"/>
 <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" title="Sass" alt="Sass"/>
